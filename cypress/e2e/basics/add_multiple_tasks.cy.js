@@ -21,8 +21,4 @@ describe('multiple tasks management', () => {
         
     })
 
-    it('should open and close the new task function using cancel button', () => {
-
-    })
-
 })
